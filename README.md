@@ -26,4 +26,4 @@ I am a Data Science MSc student with hands-on expertise in delivering end-to-end
 ### 📫 Let's Connect
 
 * Find me on **[LinkedIn](https://www.linkedin.com/in/shahbaz-sharif/)**
-* You can reach me via **[Email](mailto:shahbaz.w156@gmail.com)**
+* You can reach me via **[shahbaz.w156@gmail.com]**
