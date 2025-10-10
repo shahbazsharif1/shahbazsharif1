@@ -1,6 +1,6 @@
 ### Hi there, I'm Shahbaz Sharif 👋
 
-I am a Data Science MSc student with hands-on expertise in delivering end-to-end data solutions for business-critical problems. I specialize in building predictive models and communicating insights to stakeholders to drive measurable business improvements.
+I am a graduate in MSc Data Science with hands-on expertise in delivering end-to-end data solutions for business-critical problems. I specialize in building predictive models and communicating insights to stakeholders to drive measurable business improvements.
 
 ### 🔧 My Tech Stack & Tools
 
