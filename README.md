@@ -26,4 +26,4 @@ I am a graduate in MSc Data Science with hands-on expertise in delivering end-to
 ### 📫 Let's Connect
 
 * Find me on **[LinkedIn](https://www.linkedin.com/in/shahbaz-sharif/)**
-* You can reach me via **[shahbaz.w156@gmail.com]**
+* You can reach me via **[shahbaz.b.sharif@gmail.com]**
