@@ -1,29 +1,31 @@
 ### Hi there, I'm Shahbaz Sharif 👋
-
-I am a graduate in MSc Data Science with hands-on expertise in delivering end-to-end data solutions for business-critical problems. I specialize in building predictive models and communicating insights to stakeholders to drive measurable business improvements.
-
+ 
+I am a Data Analyst with 2+ years of experience in e-commerce and healthcare analytics. I identified £97K in at-risk customer revenue through RFM and cohort analysis and surfaced the segments that informed a CRM win-back campaign, lifting repeat purchase rate from 22% to 29%
+ 
 ### 🔧 My Tech Stack & Tools
-
-* 💻 **Languages:** `Python`, `SQL`, `R`
-* 🧠 **Data Science & ML:** `Pandas`, `NumPy`, `Scikit-learn`, `Supervised & Unsupervised Learning`, `Regression`, `Classification`, `GridSearchCV`
-* 📊 **Databases & BI:** `SQL Server`, `PostgreSQL`, `Tableau`, `Power BI`, `Matplotlib`, `Seaborn`
-* ⚙️ **Tools:** `GitHub`, `Excel`, `Data Storytelling`, `Stakeholder Communication`
-
+ 
+* 💻 **Languages:** `Python`, `SQL`
+* 🧠 **Data Science & ML:** `Pandas`, `NumPy`, `Scikit-learn`, `RFM Segmentation`, `Cohort Analysis`, `Decile Analysis`, `CLV Modelling`, `Churn Analysis`, `Regression`, `Hypothesis Testing`
+* 📊 **Databases & BI:** `PostgreSQL`, `MySQL`, `Power BI`, `DAX`, `Power Query`, `Tableau`, `Matplotlib`, `Seaborn`
+* ⚙️ **Tools:** `GitHub`, `Excel`, `Jupyter Notebook`, `VS Code`, `MS Office`, `Claude`, `Microsoft Copilot`
 ### 🚀 Featured Projects
+ 
+**1. Customer Value Segmentation (RFM and Deciles)**
+* **Summary:** An online retailer's revenue was concentrated in a small share of customers and marketing spend was spread across blanket discounts with no structured view of which customers to retain, grow, or stop discounting. I built an end-to-end RFM and decile pipeline in Python across 50K+ customer transactions to segment customers by value and quantify where win-back spend was being wasted.
+* **Key Achievement:**
+   * Top 10% of customers generate 61.5% of total revenue. 80% of revenue falls within the top three deciles, making a clear case for a retention-first budget strategy.
+   * Identified at-risk customers with high historical value but worsening recency as the primary audience for tightly controlled, margin-aware win-back campaigns.
+* **Tech Used:** `Python`, `Pandas`, `Jupyter Notebook`
+* **[View Project](https://shahbazsharif1.github.io/shahbaz-portfolio/)**
 
-**1. 🏡 House Price Prediction**
-* **Summary:** I built a complete data science pipeline to engineer and benchmark 5 machine learning models, automating data cleaning, feature engineering, and performance evaluation to predict house prices.
-* **Key Achievement:** • Identified XGBoost as the most accurate predictor, achieving an **R-squared score of over `90%`** on the Boston dataset.
-* **Tech Used:** `Python`, `Scikit-learn`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`
-* **[View Project on GitHub](https://github.com/shahbazsharif1/ML-Stat-House-Price-Predictor)**
-
-**2. ❤️ Heart Disease Prediction using Machine Learning**
-* **Summary:** I engineered and evaluated over 4 machine learning classifiers, including Random Forest and SVM, to predict the presence of heart disease and enhance early risk detection.
-* **Key Achievement:** • Attained **`96%` accuracy** using a Random Forest classifier and boosted F1-scores by up to **`7%`** by optimizing model performance with GridSearchCV.
-* **Tech Used:** `Python`, `Scikit-learn`, `Pandas`, `NumPy`, `GridSearchCV`
-* **[View Project on GitHub](https://github.com/shahbazsharif1/ai-driven-heart-disease-detection-pipeline)**
-
+**2. Hospital KPI Analytics | Lowell General Hospital**
+* **Summary:** Nursing leadership at Lowell General Hospital needed to know whether three core patient safety KPIs were improving, which months carried the highest risk, and what was statistically driving fall rates. I analysed 60 months of operational data in Python and built a Tableau RAG-status dashboard tracking occupancy, unassisted fall rate, and staff responsiveness against NDNQI and HCAHPS benchmarks.
+* **Key Achievement:**
+   * Fall rate and staff responsiveness had the strongest inverse relationship in the dataset (r = -0.791, p < 0.001), confirming fall rate as a leading indicator of declining responsiveness scores.
+   * Occupancy averaged 96.2% against an 85% target, exceeding it in 59 of 60 months. September and January were the highest-risk months across all three KPIs.
+* **Tech Used:** `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `SciPy`, `Tableau`
+* **[View Dashboard](https://public.tableau.com/views/Hospityal_KPI_Dashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 ### 📫 Let's Connect
-
+ 
 * Find me on **[LinkedIn](https://www.linkedin.com/in/shahbaz-sharif/)**
-* You can reach me via **[shahbaz.b.sharif@gmail.com]**
+* You can reach me via **[shahbaz.b.sharif@gmail.com](mailto:shahbaz.b.sharif@gmail.com)**
