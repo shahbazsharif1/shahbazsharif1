@@ -1,6 +1,6 @@
 ### Hi there, I'm Shahbaz Sharif 👋
  
-I am a Data Analyst with 2+ years of experience in e-commerce and healthcare analytics. I identified £97K in at-risk customer revenue through RFM and cohort analysis and surfaced the segments that informed a CRM win-back campaign, lifting repeat purchase rate from 22% to 29%
+I am a Data Analyst with 2+ years of experience in e-commerce and Marketing analytics.
  
 ### 🔧 My Tech Stack & Tools
  
